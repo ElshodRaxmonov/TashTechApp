@@ -1,0 +1,679 @@
+{
+  "students": {
+    "TTB2600001": {
+      "name": "Gulsevar Xolmuminova",
+      "group": 1,
+      "sex": 0
+    },
+    "TTB2600002": {
+      "name": "Muslimbek Sindorov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600003": {
+      "name": "Shohjahon Xolmuxamedov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600005": {
+      "name": "Shaxzod Yusupov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600006": {
+      "name": "Ibrohim Xolniyozov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600007": {
+      "name": "Baxtiyor Doniyorov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600008": {
+      "name": "A'zamjon Abdurahimjonov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600009": {
+      "name": "Nozimaxon Baxodirova",
+      "group": 1,
+      "sex": 0
+    },
+    "TTB2600010": {
+      "name": "Islombek Shuhratov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600011": {
+      "name": "Abror Tangirqulov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600012": {
+      "name": "Azamat Ixmatullaev",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600013": {
+      "name": "Shoxjaxon Raimkulov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600137": {
+      "name": "Oybek Iskandarov",
+      "group": 1,
+      "sex": 1
+    },
+    "TTB2600014": {
+      "name": "Asadbek Ashirqulov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600015": {
+      "name": "Javohir Mamurjonov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600016": {
+      "name": "Zikriyo Mirzaxalilov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600017": {
+      "name": "Ilhomjon Sabirov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600018": {
+      "name": "Murodbek Islomov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600019": {
+      "name": "Sardorbek Xoliqov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600020": {
+      "name": "Shahzodbek A'zamov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600021": {
+      "name": "Nodirbek Shavkatov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600022": {
+      "name": "Fayz Sultan",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600023": {
+      "name": "Muxammadrizo Usmonov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600024": {
+      "name": "Yernur Artikbayev",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600025": {
+      "name": "Temur Tulaganov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600026": {
+      "name": "Bexruz Abduraxmonov",
+      "group": 2,
+      "sex": 1
+    },
+    "TTB2600027": {
+      "name": "Ibrat Nurullayev",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600028": {
+      "name": "Diyorbek Qobulov",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600029": {
+      "name": "Mardon Shayakubov",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600030": {
+      "name": "Muxammadtolib Abdulatifov",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600031": {
+      "name": "Islombek G'aniyev",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600032": {
+      "name": "Umidjon Egamqulov",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600033": {
+      "name": "Jafarbek Rustamov",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600034": {
+      "name": "Mubina Madridova",
+      "group": 3,
+      "sex": 0
+    },
+    "TTB2600036": {
+      "name": "Behbud Ramazonov",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600037": {
+      "name": "Dilmuhammad Nu'monov",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600038": {
+      "name": "Toxirjon Yuldoshev",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600039": {
+      "name": "Javlonbek Erkaboev",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600138": {
+      "name": "Abdukarim Sotimboyev",
+      "group": 3,
+      "sex": 1
+    },
+    "TTB2600040": {
+      "name": "Manguberdi Og'aboyev",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600041": {
+      "name": "Pokiza Jahongirova",
+      "group": 4,
+      "sex": 0
+    },
+    "TTB2600042": {
+      "name": "Hasan Isroilov",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600043": {
+      "name": "Asilbek O'rolboyev",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600044": {
+      "name": "Muxammadibroxim Topiljonov",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600045": {
+      "name": "Shohjahon Yunusov",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600046": {
+      "name": "Abdulaziz Hasanov",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600047": {
+      "name": "Shamshod Abdumavlonov",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600048": {
+      "name": "Siddiqjon Majidov",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600049": {
+      "name": "Mukarramxon Maxmudova",
+      "group": 4,
+      "sex": 0
+    },
+    "TTB2600050": {
+      "name": "Sultanbek Eshbaev",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600051": {
+      "name": "Elshodbek Abdurahmonov",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600052": {
+      "name": "Xasanboy Raxmonaliyev",
+      "group": 4,
+      "sex": 1
+    },
+    "TTB2600053": {
+      "name": "Habibulloh Abdullayev",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600054": {
+      "name": "Alisherbek Mamasoliyev",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600055": {
+      "name": "Abduaziz Xolboyev",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600056": {
+      "name": "Diyora Baxtiyorova",
+      "group": 5,
+      "sex": 0
+    },
+    "TTB2600057": {
+      "name": "Temurbek Maxmaraimov",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600058": {
+      "name": "Axmadjon Karimov",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600059": {
+      "name": "Ismoil Najmiddinov",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600060": {
+      "name": "Azizbek Boboyev",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600061": {
+      "name": "Ibroximboy Ilxomov",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600062": {
+      "name": "Durdona Iskandarova",
+      "group": 5,
+      "sex": 0
+    },
+    "TTB2600063": {
+      "name": "Jumanazar Utamuradov",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600064": {
+      "name": "Saloxiddin Qilichov",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600065": {
+      "name": "Abubakr Ibroximov",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600066": {
+      "name": "Fatxulloh Nig'matullayev",
+      "group": 5,
+      "sex": 1
+    },
+    "TTB2600067": {
+      "name": "Bexruz Abdivaliyev",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600068": {
+      "name": "Diyorbek Miliyev",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600069": {
+      "name": "Azizbek Ortiqboyev",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600070": {
+      "name": "Abdulbasit Fayzullayev",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600071": {
+      "name": "Muxammad Ali Mamadolimov",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600072": {
+      "name": "Abdusalom Abdumannopov",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600073": {
+      "name": "Jonibek Amatjonov",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600074": {
+      "name": "Zebuzar Bazarbayeva",
+      "group": 6,
+      "sex": 0
+    },
+    "TTB2600075": {
+      "name": "Mustafo Karimberganov",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600076": {
+      "name": "Jamshidbek O'rinboyev",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600077": {
+      "name": "Javohir Tursunov",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600078": {
+      "name": "Doniyorxo'ja Akromov",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600079": {
+      "name": "Saidumar Nabiyev",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600080": {
+      "name": "Rasul Tursunov",
+      "group": 6,
+      "sex": 1
+    },
+    "TTB2600081": {
+      "name": "Abduxalim Abdurasulov",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600082": {
+      "name": "Javoxir Xudoyberdiyev",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600083": {
+      "name": "Mubina Raxmatova",
+      "group": 7,
+      "sex": 0
+    },
+    "TTB2600084": {
+      "name": "Javohir Abdurazzoqov",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600085": {
+      "name": "Nurilloh Xasanov",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600086": {
+      "name": "Ruxshona Axatova",
+      "group": 7,
+      "sex": 0
+    },
+    "TTB2600087": {
+      "name": "Xojiahmad Norqo'ziyev",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600088": {
+      "name": "Elshod Raxmonov",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600089": {
+      "name": "Ayubxon Miraxmedov",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600090": {
+      "name": "Soxiba Olimbayeva",
+      "group": 7,
+      "sex": 0
+    },
+    "TTB2600091": {
+      "name": "Rahmonjon Rahmonov",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600092": {
+      "name": "Komiljon Mamajonov",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600093": {
+      "name": "Timur Malik Buriyev",
+      "group": 7,
+      "sex": 1
+    },
+    "TTB2600095": {
+      "name": "Abdulkarim Abduxakimov",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600096": {
+      "name": "Rustambek Abduqodirov",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600097": {
+      "name": "Komronbek Yaxshiboyev",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600098": {
+      "name": "Ozodbek Asilbekov",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600099": {
+      "name": "Sarvar Boltayev",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600100": {
+      "name": "Ibrohim Hasanov",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600101": {
+      "name": "Ibrohimjon Ikromov",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600102": {
+      "name": "Oysha G'ulomova",
+      "group": 8,
+      "sex": 0
+    },
+    "TTB2600103": {
+      "name": "Amirxon Ibodullayev",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600104": {
+      "name": "Abubakr Nabiyev",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600105": {
+      "name": "Abduaziz Voxobov",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600106": {
+      "name": "Irodaxon Turayeva",
+      "group": 8,
+      "sex": 0
+    },
+    "TTB2600107": {
+      "name": "Najmiddin Ergashev",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600108": {
+      "name": "Arslan Martinov",
+      "group": 8,
+      "sex": 1
+    },
+    "TTB2600109": {
+      "name": "Shohjahon Tuymurotov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600110": {
+      "name": "Husan Isroilov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600111": {
+      "name": "Malohat Ro'ziyeva",
+      "group": 9,
+      "sex": 0
+    },
+    "TTB2600112": {
+      "name": "Sarvar Toshtemirov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600113": {
+      "name": "Hasanboy Odilov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600114": {
+      "name": "Oybek Yo'ldoshev",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600115": {
+      "name": "Hosilbek Qosimov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600116": {
+      "name": "Zohirbek Yo'ldoshmatov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600117": {
+      "name": "Salimjon Alimov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600118": {
+      "name": "Abdurahimxon Ismoilov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600119": {
+      "name": "Sardorbek Raimov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600120": {
+      "name": "Jo'rabek Absamatov",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600121": {
+      "name": "Saidakbarxon Norxujaev",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600122": {
+      "name": "Asadbek Saydullayev",
+      "group": 9,
+      "sex": 1
+    },
+    "TTB2600123": {
+      "name": "Yusufbek Shukurov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600124": {
+      "name": "Jamshid Kuvandikov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600125": {
+      "name": "Lazizbek Rustamov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600126": {
+      "name": "Muxammadali Mirzayev",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600127": {
+      "name": "Oybibi Hasanova",
+      "group": 10,
+      "sex": 0
+    },
+    "TTB2600128": {
+      "name": "Boburbek Abdujabborov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600129": {
+      "name": "E'zoza Nosirova",
+      "group": 10,
+      "sex": 0
+    },
+    "TTB2600130": {
+      "name": "Sherzod Nizamov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600131": {
+      "name": "Asadbek Norqulov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600132": {
+      "name": "Mira'zam Qo'chqorov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600133": {
+      "name": "Oybek Mirzabekov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600134": {
+      "name": "Mirjalol Nurmuhammedov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600135": {
+      "name": "Kamran Bekirov",
+      "group": 10,
+      "sex": 1
+    },
+    "TTB2600136": {
+      "name": "Abdusami Matkarimov",
+      "group": 10,
+      "sex": 1
+    }
+  }
+}

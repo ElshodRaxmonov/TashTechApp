@@ -1,0 +1,11 @@
+local.properties
+keystore.properties
+*.jks
+*.keystore
+/app/release/
+/build/
+.gradle/
+.idea/
+captures/
+app/src/main/assets/students.json
+app/src/main/assets/timetable.json

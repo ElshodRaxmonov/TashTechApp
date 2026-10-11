@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="110dp"
+    android:viewportWidth="250"
+    android:viewportHeight="110">
+    <path
+        android:fillColor="@color/widget_surface"
+        android:pathData="M22,0h206a22,22 0 0 1 22,22v66a22,22 0 0 1 -22,22h-206a22,22 0 0 1 -22,-22v-66a22,22 0 0 1 22,-22z" />
+    <path
+        android:fillColor="@color/widget_accent"
+        android:pathData="M16,22h8a4,4 0 0 1 4,4v8a4,4 0 0 1 -4,4h-8a4,4 0 0 1 -4,-4v-8a4,4 0 0 1 4,-4z" />
+    <path
+        android:fillColor="@color/widget_on_accent"
+        android:pathData="M16.5,26.5h7v2h-2.5v6h-2v-6h-2.5z" />
+    <path
+        android:fillColor="@color/widget_accent"
+        android:pathData="M34,27h26v6h-26z" />
+    <path
+        android:fillColor="@color/widget_on_surface"
+        android:pathData="M12,46h118v8h-118z" />
+    <path
+        android:fillColor="@color/widget_on_surface"
+        android:pathData="M12,58h82v8h-82z" />
+    <path
+        android:fillColor="@color/widget_muted"
+        android:pathData="M12,72h96v6h-96z" />
+    <path
+        android:fillColor="@color/widget_accent"
+        android:pathData="M192,12h28a18,18 0 0 1 18,18v50a18,18 0 0 1 -18,18h-28a18,18 0 0 1 -18,-18v-50a18,18 0 0 1 18,-18z" />
+    <group
+        android:scaleX="1.083"
+        android:scaleY="1.083"
+        android:translateX="193"
+        android:translateY="33">
+        <path
+            android:fillColor="@color/widget_on_accent"
+            android:pathData="M9.5,6.5v3h-3v-3H9.5M11,5H5v6h6V5L11,5zM9.5,14.5v3h-3v-3H9.5M11,13H5v6h6V13L11,13zM17.5,6.5v3h-3v-3H17.5M19,5h-6v6h6V5L19,5zM13,13h1.5v1.5H13V13zM14.5,14.5H16V16h-1.5V14.5zM16,13h1.5v1.5H16V13zM13,16h1.5v1.5H13V16zM14.5,17.5H16V19h-1.5V17.5zM16,16h1.5v1.5H16V16zM17.5,14.5H19V16h-1.5V14.5zM17.5,17.5H19V19h-1.5V17.5zM22,7h-2V4h-3V2h5V7zM22,22h-5v-2h3v-3h2V22zM2,22v-5h2v3h3v2H2zM2,2h5v2H4v3H2V2z" />
+    </group>
+    <path
+        android:fillColor="@color/widget_on_accent"
+        android:pathData="M198,66h16v6h-16z" />
+</vector>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="110dp"
+    android:height="110dp"
+    android:viewportWidth="110"
+    android:viewportHeight="110">
+    <path
+        android:fillColor="@color/widget_box"
+        android:pathData="M22,0h66a22,22 0 0 1 22,22v66a22,22 0 0 1 -22,22h-66a22,22 0 0 1 -22,-22v-66a22,22 0 0 1 22,-22z" />
+
+    <group
+        android:scaleX="1.083"
+        android:scaleY="1.083"
+        android:translateX="29"
+        android:translateY="10">
+
+        <!-- Row 1 -->
+        <path
+            android:fillAlpha="0.95"
+            android:fillColor="#FFFFFF"
+            android:pathData="M4,4h12v12h-12z" />
+        <path
+            android:fillAlpha="0.55"
+            android:fillColor="#FFFFFF"
+            android:pathData="M18,4h12v12h-12z" />
+        <path
+            android:fillAlpha="0.95"
+            android:fillColor="#FFFFFF"
+            android:pathData="M32,4h12v12h-12z" />
+
+        <!-- Row 2: circle, triangle, square -->
+        <!-- Row 2: aligned horizontally and vertically -->
+        <!-- Circle: column 1 -->
+        <path
+            android:fillAlpha="0.95"
+            android:fillColor="#03A9F4"
+            android:pathData="M4,24
+        a6,6 0,1 0,12 0
+        a6,6 0,1 0,-12 0" />
+        <path
+            android:fillColor="#F2C94C"
+            android:pathData="M32,18h12v12h-12z" />
+        <!-- Triangle: column 2 -->
+        <path
+            android:fillAlpha="0.95"
+            android:fillColor="#673AB7"
+            android:pathData="M24,18
+        L30,30
+        H18
+        Z" />
+
+        <!-- Square: column 3 -->
+
+
+        <!-- Row 3 -->
+        <path
+            android:fillAlpha="0.95"
+            android:fillColor="#FFFFFF"
+            android:pathData="M4,32h12v12h-12z" />
+        <path
+            android:fillAlpha="0.55"
+            android:fillColor="#FFFFFF"
+            android:pathData="M18,32h12v12h-12z" />
+        <path
+            android:fillAlpha="0.95"
+            android:fillColor="#FFFFFF"
+            android:pathData="M32,32h12v12h-12z" />
+
+    </group>
+    <path
+        android:fillColor="@color/widget_pill"
+        android:pathData="M39,70h32a15,15 0 0 1 15,15a15,15 0 0 1 -15,15h-32a15,15 0 0 1 -15,-15a15,15 0 0 1 15,-15z" />
+    <group
+        android:scaleX="0.583"
+        android:scaleY="0.583"
+        android:translateX="35"
+        android:translateY="78">
+        <path
+            android:fillColor="#00382E"
+            android:pathData="M8,5v14l11,-7z" />
+    </group>
+    <path
+        android:fillColor="#00382E"
+        android:pathData="M52,82h24v6h-24z" />
+</vector>

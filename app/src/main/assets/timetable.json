@@ -1,0 +1,1374 @@
+{
+  "groups": {
+    "BS26-1": [
+      {
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "V. KHOLOV"
+      }
+    ],
+    "BS26-2": [
+      {
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-404",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "V. KHOLOV"
+      }
+    ],
+    "BS26-3": [
+      {
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-404",
+        "teacher": "O. MIRZAHMEDOV"
+      }
+    ],
+    "BS26-4": [
+      {
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-404",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "Kh. IBROKHIMJON"
+      }
+    ],
+    "BS26-5": [
+      {
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-404",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "R. KHAJIEV"
+      }
+    ],
+    "BS26-6": [
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-404",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "Kh. IBROKHIMJON"
+      }
+    ],
+    "BS26-7": [
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      }
+    ],
+    "BS26-8": [
+      {
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "E. TSOY"
+      }
+    ],
+    "BS26-9": [
+      {
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "E. TSOY"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-403",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-309",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "E. TSOY"
+      }
+    ],
+    "BS26-10": [
+      {
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Modern History of Uzbekistan",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "V. KHOLOV"
+      },
+      {
+        "day": "Monday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Monday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "N. GEORGIS"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-309",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Tuesday",
+        "startTime": "14:50",
+        "endTime": "16:10",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "K. SEAN"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Linear Algebra",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "T. GEORGIS"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Mathematical Analysis I",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Introduction to Engineering",
+        "lessonType": "lecture",
+        "room": "A-207",
+        "teacher": "B. MOHAMMAD REZA"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "Introduction to Engineering",
+        "lessonType": "practical",
+        "room": "A-401",
+        "teacher": "Kh. IBROKHIMJON"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:40",
+        "subject": "Fundamentals of Computer Science",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "R. KHAJIEV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "09:30",
+        "endTime": "10:50",
+        "subject": "Linear Algebra",
+        "lessonType": "practical",
+        "room": "A-409",
+        "teacher": "O. MIRZAHMEDOV"
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00",
+        "endTime": "12:20",
+        "subject": "English for Engineering I",
+        "lessonType": "practical",
+        "room": "A-402",
+        "teacher": "D. FLORENCE"
+      }
+    ]
+  }
+}
